@@ -2,4 +2,4 @@
 AP Java independent project 2015
 
 Download the github client
-https://windows.github.com/
+http://msysgit.github.io/
